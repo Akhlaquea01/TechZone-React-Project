@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+font family
+
+font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Freckle Face', cursive;
+font-family: 'Karantina', cursive;
+font-family: 'New Tegomin', serif;
+font-family: 'Original Surfer', cursive;
+font-family: 'Righteous', cursive;
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Tangerine', cursive;

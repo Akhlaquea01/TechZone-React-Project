@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.headerContainer {
+  position: fixed;
+  display: flex;
+  background-color: black;
+  /* align-items: center; */
+  color: aliceblue;
+  width: 100%;
+  font-family: Caveat;
+  font-size: large;
+}
+.headerContainer h1{
+    margin-left: 5vw;
+    font-family: Righteous;
+    /* text-transform: uppercase; */
+}
+.headerContainer ul {
+  display: flex;
+  list-style-type: none;
+}
+
+.search{
+    position: absolute;
+    left:45%;
+    height: 100%;
+    width: 50%;
+
+}
+.search input{
+    position: absolute;
+    top: 20%;
+    height: 4vh;
+    width: 15vw;
+    border: rgb(0, 255, 64) 1px solid;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Caveat;
+    font-size: large;
+    outline: none;
+
+}
+.search img{
+    margin-left: 31%;
+margin-top: 2%;
+/* height: 4vh; */
+}
+.home{
+   position: absolute;
+   left: 65%;
+    display: flex;
+}
+.home img{
+    margin-right: 10%;
+    height: 4vh;
+}
+.home li{
+   
+    margin-top: 15%;
+}
+.category{
+    position: absolute;
+    display: flex;
+    left: 72%;
+}
+.category img{
+    margin-top: 8%;
+    margin-right: 10%;
+}
+.category li{
+   margin-top: 15%;
+}
+
+.cart {
+  position: absolute;
+  left: 80%;
+  display: flex;
+  /* background: none; */
+  /* color: inherit;
+  border: none;
+  outline: inherit;
+  display: flex; */
+}
+.cart li{
+    margin-left: 10%;
+    margin-top: 20%;
+
+}
+.cart img{
+    margin-top: 15%;
+}
+
+
+
+.account{
+    position: absolute;
+    left: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.user{
+    height: 4vh;
+}
+.account img{
+    margin-right: 10%;
+    margin-top: 8%;
+}
+.account li{
+    margin-top: 10%;
+}
+.icon {
+    height: 3vh;
+  }

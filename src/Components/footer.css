@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fooTer{
+    background-color: black;
+    color: aliceblue;
+    position: fixed;
+    bottom: 0;
+    width:100%;
+}
+.fooTer h1{
+    text-align: center;
+}
+ul{
+    display: flex;
+    margin-bottom: 5%;
+}
